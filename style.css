@@ -16,3 +16,7 @@ h4 {
   color: rgb(12, 114, 26);
   font-size: 10px;
 }
+
+.navbar-nav { 
+  margin-left: auto; 
+} 
