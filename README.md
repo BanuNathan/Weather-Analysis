@@ -4,4 +4,4 @@
          
 ### After analysing the data set we used matplotlib to plot various aspect of the data vs. Latitude. Factors we looked at included: temperature, cloudiness, wind speed and humidity. This site provides source data and visualizations as part of the analysis as well as explanations and descriptions of any trends and correlations 
         [website]: https://banunathan.github.io/Web-Design-Challenge/  
-        Check out [https://stackoverflow.com][website] for more fun.
+       
