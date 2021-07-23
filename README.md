@@ -1,4 +1,4 @@
-#                                                                  WEather Change Analysis
+#                                                                  Weather Analysis
 
 ### The purpose of this project is to analyze the weather changes as you get closer to the equator. To accomplish this analysis I first gathered data from OpenWeatherMap API for over 500 cities.
          
